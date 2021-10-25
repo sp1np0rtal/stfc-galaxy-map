@@ -953,13 +953,13 @@ STFCMap = (function() {
         });
     };
     let setAttributions = function(info) {
-        let mapLink = "<a href='https://stfcpro.com' title='Star Trek Fleet Command Galaxy Map'>";
+        let mapLink = "<a href='https://taggedzi.github.io/stfc-galaxy-map/' title='Star Trek Fleet Command Galaxy Map'>";
         let discLinkA = "<a href='https://discord.com/invite/fKThyH2' title='STFC Pro Discord'>";
         let close = "</a>";
-        let serverInfo = '[16] Baryon'; //info.serverInfo
+        let serverInfo = '[71] Soong'; //info.serverInfo
         let mapName = 'Star Trek Fleet Command Galaxy Map'; //info.mapName
-        let author = 'JoeCrash'; //info.author
-        return mapLink + mapName + close + " v" + versionNumber + "<br>" + "By: <strong>" + author + "</strong> - Server: <strong>" + serverInfo + "</strong><br>" + discLinkA + "STFCPro Bot/Map Discord" + close;
+        let author = 'Originator: JoeCrash; New: TaggedZi'; //info.author
+        return mapLink + mapName + close + " v" + versionNumber + "<br>" + "By: <strong>" + author + "</strong> - Server: <strong>" + serverInfo + "</strong><br>";
     };
     return { //public interface
         init,
