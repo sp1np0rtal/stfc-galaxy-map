@@ -119,7 +119,7 @@ STFCMap = (function() {
         };
 
     /** parameters to adjust */
-    const versionNumber = '2.4.0'; //info.version
+    const versionNumber = '2.4.1'; //info.version
     const xMin = -6357;
     const xWidth = 4400;
     const xMax = xMin + xWidth;
