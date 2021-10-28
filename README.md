@@ -1,7 +1,7 @@
 # stfc-galaxy-map
 Star Trek Fleet Command Interactive Map
 
-View the full map at https://taggedzi.github.io/stfc-galaxy-map/
+View the full map at https://sp1np0rtal.github.io/stfc-galaxy-map/
 
 This map is provided as is, free of charge for you to use and alter as you see fit.
 I do not own any of the icons used in this project.
