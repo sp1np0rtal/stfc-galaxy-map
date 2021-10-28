@@ -953,7 +953,7 @@ STFCMap = (function() {
         });
     };
     let setAttributions = function(info) {
-        let mapLink = "<a href='https://taggedzi.github.io/stfc-galaxy-map/' title='Star Trek Fleet Command Galaxy Map'>";
+        let mapLink = "<a href='https://sp1np0rtal.github.io/stfc-galaxy-map/' title='Star Trek Fleet Command Galaxy Map'>";
         let discLinkA = "<a href='https://discord.com/invite/fKThyH2' title='STFC Pro Discord'>";
         let close = "</a>";
         let serverInfo = '[71] Soong'; //info.serverInfo
